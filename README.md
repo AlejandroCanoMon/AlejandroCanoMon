@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Alex</h1>
+<h1 align="center">find / -perm /4000 2>/dev/null</h1>
 <p align="center">
   🧑‍💻 Software Engineering Student · 🛡️ Cybersecurity Enthusiast · 🧠 CTF Player · 🎸 Guitar Nerd
 </p>
